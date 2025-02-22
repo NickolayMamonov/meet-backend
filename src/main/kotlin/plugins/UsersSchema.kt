@@ -1,4 +1,4 @@
-package dev.whysoezzy
+package dev.whysoezzy.plugins
 
 import kotlinx.coroutines.Dispatchers
 import kotlinx.serialization.Serializable
